@@ -71,3 +71,11 @@
 [06:51:57] [Server thread/INFO]: RevRa3 joined the game
 [06:51:57] [TAB Processing Thread/INFO]: [TAB] [WARN] Player RevRa3's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
 [06:51:57] [Server thread/INFO]: RevRa3[/127.118.94.86:32807] logged in with entity id 834 at ([world]102.40042107288518, 67.0, -110.57472756243584)
+[06:57:14] [Server thread/INFO]: RevRa3 issued server command: /tab reload
+[06:57:14] [Server thread/INFO]: [TAB] Disabled in 2ms
+[06:57:15] [Server thread/INFO]: [TAB] [WARN] Player RevRa3's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[06:57:15] [Server thread/INFO]: [TAB] Enabled in 19ms
+[07:03:34] [Server thread/INFO]: RevRa3 issued server command: /tab reload
+[07:03:34] [Server thread/INFO]: [TAB] Disabled in 1ms
+[07:03:34] [Server thread/INFO]: [TAB] [WARN] Player RevRa3's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[07:03:34] [Server thread/INFO]: [TAB] Enabled in 16ms
