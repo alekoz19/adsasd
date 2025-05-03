@@ -57,3 +57,11 @@
 [05:40:47] [Server thread/INFO]: [TAB] Disabled in 5ms
 [05:40:47] [Server thread/INFO]: [TAB] [WARN] Player RevRa3's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
 [05:40:47] [Server thread/INFO]: [TAB] Enabled in 57ms
+[05:50:25] [Server thread/INFO]: RevRa3 issued server command: /time set day
+[05:50:25] [Server thread/INFO]: [RevRa3: Set the time to 1000]
+[05:50:28] [Server thread/INFO]: RevRa3 issued server command: /tab reload
+[05:50:28] [Server thread/INFO]: [TAB] Disabled in 2ms
+[05:50:28] [Server thread/INFO]: [TAB] [WARN] Player RevRa3's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[05:50:28] [Server thread/INFO]: [TAB] Enabled in 21ms
+[05:51:41] [Server thread/INFO]: RevRa3 lost connection: Disconnected
+[05:51:41] [Server thread/INFO]: RevRa3 left the game
