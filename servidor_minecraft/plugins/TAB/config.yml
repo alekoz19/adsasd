@@ -2,23 +2,21 @@
 header-footer:
   enabled: true
   header:
-    - "<#FFFFFF>&m                                                </#FFFF00>"
-    - ""
-    - ""
-    - ""
-    - "&fボ"
-    - ""
-    - "&r&7&l>> %animation:Welcome%&3 &l%player%&7&l! &7&l<<"
-    - "&r&7Online players: &f%online%"
-    - "&6Online staff: &e%staffonline%"
-    - ""
+    - ''
+    - ''
+    - ''
+    - 'ボ'
+    - ''
+    - '&c&lᴊᴜɢᴀᴅᴏʀᴇѕ ᴇɴ ʟɪɴᴇᴀ: &f%online%'
+    - '&e&lѕᴛᴀꜰꜰ ᴇɴ ʟɪɴᴇᴀ: &e%staffonline%'
+    - ''
   footer:
-    - "%animation:time%"
-    - "&2Ping: %ping%"
-    - "&7&l Used memory: %memory-used% MB / %memory-max% MB"
-    - ""
-    - "&r&7Visit our webpage %animation:web%"
-    - "<#FFFFFF>&m                                                </#FFFF00>"
+    - ''
+    - '%animation:discord_tab% &fdiscord.gg/dgDTZW4x9P'
+    - '%animation:redes_tab% &f@RevianMc'
+    - ''
+    - '&c! %animation:tab_text% &c!'
+    - ''
   disable-condition: '%world%=disabledworld'
   per-world:
     world1:

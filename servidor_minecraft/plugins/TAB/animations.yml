@@ -1,110 +1,58 @@
-MyAnimation1:
+# ANIMACIONES DEL TAB
+discord_tab:
   change-interval: 100
   texts:
-    - '&d-&3--------------'
-    - '&3-&d-&3-------------'
-    - '&3--&d-&3------------'
-    - '&3---&d-&3-----------'
-    - '&3----&d-&3----------'
-    - '&3-----&d-&3---------'
-    - '&3------&d-&3--------'
-    - '&3-------&d-&3-------'
-    - '&3--------&d-&3------'
-    - '&3---------&d-&3-----'
-    - '&3----------&d-&3----'
-    - '&3-----------&d-&3---'
-    - '&3------------&d-&3--'
-    - '&3-------------&d-&3-'
-    - '&3--------------&d-'
-    - '&3-------------&d-&3-'
-    - '&3------------&d-&3--'
-    - '&3-----------&d-&3---'
-    - '&3----------&d-&3----'
-    - '&3---------&d-&3-----'
-    - '&3--------&d-&3------'
-    - '&3-------&d-&3-------'
-    - '&3------&d-&3--------'
-    - '&3-----&d-&3---------'
-    - '&3----&d-&3----------'
-    - '&3---&d-&3-----------'
-    - '&3--&d-&3------------'
-    - '&3-&d-&3-------------'
-    - '&d-&3--------------'
-ServerName:
-  change-interval: 300
+  - "§x§4§4§6§5§F§F§lD§x§5§1§6§F§F§F§lI§x§5§D§7§A§F§F§lS§x§6§A§8§4§F§E§lC§x§7§6§8§E§F§E§lO§x§6§5§8§0§F§E§lR§x§5§5§7§3§F§F§lD§x§4§4§6§5§F§F§l:"
+  - "§x§5§1§6§F§F§F§lD§x§4§4§6§5§F§F§lI§x§5§1§6§F§F§F§lS§x§5§D§7§A§F§F§lC§x§6§A§8§4§F§E§lO§x§7§6§8§E§F§E§lR§x§6§5§8§0§F§E§lD§x§5§5§7§3§F§F§l:"
+  - "§x§5§D§7§A§F§F§lD§x§5§1§6§F§F§F§lI§x§4§4§6§5§F§F§lS§x§5§1§6§F§F§F§lC§x§5§D§7§A§F§F§lO§x§6§A§8§4§F§E§lR§x§7§6§8§E§F§E§lD§x§6§5§8§0§F§E§l:"
+  - "§x§6§A§8§4§F§E§lD§x§5§D§7§A§F§F§lI§x§5§1§6§F§F§F§lS§x§4§4§6§5§F§F§lC§x§5§1§6§F§F§F§lO§x§5§D§7§A§F§F§lR§x§6§A§8§4§F§E§lD§x§7§6§8§E§F§E§l:"
+  - "§x§7§6§8§E§F§E§lD§x§6§A§8§4§F§E§lI§x§5§D§7§A§F§F§lS§x§5§1§6§F§F§F§lC§x§4§4§6§5§F§F§lO§x§5§1§6§F§F§F§lR§x§5§D§7§A§F§F§lD§x§6§A§8§4§F§E§l:"
+  - "§x§6§5§8§0§F§E§lD§x§7§6§8§E§F§E§lI§x§6§A§8§4§F§E§lS§x§5§D§7§A§F§F§lC§x§5§1§6§F§F§F§lO§x§4§4§6§5§F§F§lR§x§5§1§6§F§F§F§lD§x§5§D§7§A§F§F§l:"
+  - "§x§5§5§7§3§F§F§lD§x§6§5§8§0§F§E§lI§x§7§6§8§E§F§E§lS§x§6§A§8§4§F§E§lC§x§5§D§7§A§F§F§lO§x§5§1§6§F§F§F§lR§x§4§4§6§5§F§F§lD§x§5§1§6§F§F§F§l:"
+  - "§x§4§4§6§5§F§F§lD§x§5§5§7§3§F§F§lI§x§6§5§8§0§F§E§lS§x§7§6§8§E§F§E§lC§x§6§A§8§4§F§E§lO§x§5§D§7§A§F§F§lR§x§5§1§6§F§F§F§lD§x§4§4§6§5§F§F§l:"
+  - "§x§5§5§7§3§F§F§lD§x§4§4§6§5§F§F§lI§x§5§5§7§3§F§F§lS§x§6§5§8§0§F§E§lC§x§7§6§8§E§F§E§lO§x§6§A§8§4§F§E§lR§x§5§D§7§A§F§F§lD§x§5§1§6§F§F§F§l:"
+  - "§x§6§5§8§0§F§E§lD§x§5§5§7§3§F§F§lI§x§4§4§6§5§F§F§lS§x§5§5§7§3§F§F§lC§x§6§5§8§0§F§E§lO§x§7§6§8§E§F§E§lR§x§6§A§8§4§F§E§lD§x§5§D§7§A§F§F§l:"
+  - "§x§7§6§8§E§F§E§lD§x§6§5§8§0§F§E§lI§x§5§5§7§3§F§F§lS§x§4§4§6§5§F§F§lC§x§5§5§7§3§F§F§lO§x§6§5§8§0§F§E§lR§x§7§6§8§E§F§E§lD§x§6§A§8§4§F§E§l:"
+  - "§x§6§A§8§4§F§E§lD§x§7§6§8§E§F§E§lI§x§6§5§8§0§F§E§lS§x§5§5§7§3§F§F§lC§x§4§4§6§5§F§F§lO§x§5§5§7§3§F§F§lR§x§6§5§8§0§F§E§lD§x§7§6§8§E§F§E§l:"
+  - "§x§5§D§7§A§F§F§lD§x§6§A§8§4§F§E§lI§x§7§6§8§E§F§E§lS§x§6§5§8§0§F§E§lC§x§5§5§7§3§F§F§lO§x§4§4§6§5§F§F§lR§x§5§5§7§3§F§F§lD§x§6§5§8§0§F§E§l:"
+  - "§x§5§1§6§F§F§F§lD§x§5§D§7§A§F§F§lI§x§6§A§8§4§F§E§lS§x§7§6§8§E§F§E§lC§x§6§5§8§0§F§E§lO§x§5§5§7§3§F§F§lR§x§4§4§6§5§F§F§lD§x§5§5§7§3§F§F§l:"
+
+redes_tab:
+  change-interval: 100
   texts:
-  - '&c&lServerName'
-  - '&c&n&lServerName'
-  - '&b&lServerName'
-  - '&b&l&nServerName'
-  - '&e&lServerName'
-  - '&e&n&lServerName'
-web:
-  change-interval: 200
+  - "&#FFE259&lR&#FFD657&lE&#FFCA56&lD&#FFBF54&lE&#FFB353&lS&#FFA751&l:"
+  - "&#FFD657&lR&#FFE259&lE&#FFD657&lD&#FFCA56&lE&#FFBF54&lS&#FFB353&l:"
+  - "&#FFCA56&lR&#FFD657&lE&#FFE259&lD&#FFD657&lE&#FFCA56&lS&#FFBF54&l:"
+  - "&#FFBF54&lR&#FFCA56&lE&#FFD657&lD&#FFE259&lE&#FFD657&lS&#FFCA56&l:"
+  - "&#FFB353&lR&#FFBF54&lE&#FFCA56&lD&#FFD657&lE&#FFE259&lS&#FFD657&l:"
+  - "&#FFA751&lR&#FFB353&lE&#FFBF54&lD&#FFCA56&lE&#FFD657&lS&#FFE259&l:"
+  - "&#FFB353&lR&#FFA751&lE&#FFB353&lD&#FFBF54&lE&#FFCA56&lS&#FFD657&l:"
+  - "&#FFBF54&lR&#FFB353&lE&#FFA751&lD&#FFB353&lE&#FFBF54&lS&#FFCA56&l:"
+  - "&#FFCA56&lR&#FFBF54&lE&#FFB353&lD&#FFA751&lE&#FFB353&lS&#FFBF54&l:"
+  - "&#FFD657&lR&#FFCA56&lE&#FFBF54&lD&#FFB353&lE&#FFA751&lS&#FFB353&l:"
+
+tab_text:
+  change-interval: 5000
   texts:
-  - '&ewww.domain.com'
-  - '&ewww.domain.com'
-  - '&ewww.domain.com'
-  - '&ewww.domain.com'
-  - '&ewww.domain.com'
-  - '&ewww.domain.com'
-  - '&6w&eww.domain.com'
-  - '&ew&6w&ew.domain.com'
-  - '&eww&6w&e.domain.com'
-  - '&ewww&6.&edomain.com'
-  - '&ewww.&6d&eomain.com'
-  - '&ewww.d&6o&emain.com'
-  - '&ewww.do&6m&eain.com'
-  - '&ewww.dom&6a&ein.com'
-  - '&ewww.doma&6i&en.com'
-  - '&ewww.domai&6n&e.com'
-  - '&ewww.domain&6.&ecom'
-  - '&ewww.domain.&6c&eom'
-  - '&ewww.domain.c&6o&em'
-  - '&ewww.domain.co&6m'
-  - '&ewww.domain.com'
-  - '&ewww.domain.com'
-  - '&ewww.domain.com'
-  - '&ewww.domain.com'
-  - '&ewww.domain.com'
-  - '&ewww.domain.com'
-vote:
-  change-interval: 1000
+    - '&fReclamaste tus recompensas? Usa /recompensas'
+    - '&fSin chamba? Comienze en uno usando /trabajos'
+    - '&fSin comidas o bloques? Compralos con /tienda'
+    - '&fEstas desprotegido? Salvate con /protecciones'
+    - '&fCon mucha suerte? Pruebala usando /cajas'    
+    - '&fVende y subasta tus items por dinero con /ah'
+    - '&fCambia tus tickets o tus gemas en /tradeos'
+    - '&fTe quedaste en cero? reclama tu kit en /kit'
+    - '&fViaja por todos los mundos usando /mundos'
+
+# SCORE BOARD ANIMACIONES    
+scoreboard:
+  change-interval: 10000
+  text:
+    
+
+scoretext:
+  change-interval: 5000
   texts:
-  - '&avote.domain.com'
-  - '&a&nvote.domain.com'
-  - '&5vote.domain.com'
-  - '&5&nvote.domain.com'
-Welcome:
-  change-interval: 400
-  texts:
-  - '&7&lW_'
-  - '&7&lW_'
-  - '&7&lWe_'
-  - '&7&lWel_'
-  - '&7&lWelc_'
-  - '&7&lWelco_'
-  - '&7&lWelcom_'
-  - '&7&lWelcome_'
-  - '&7&lWelcome_'
-  - '&7&lWelcome_'
-  - '&7&lWelcome_'
-  - '&7&lWelcom_'
-  - '&7&lWelco_'
-  - '&7&lWelc_'
-  - '&7&lWel_'
-  - '&7&lWe_'
-  - '&7&lW_'
-  - '&7&lW_'
-time:
-  change-interval: 3000
-  texts:
-    - '&7Time &b%time%'
-    - '&7Date &b%date%'
-barcolors:
-  change-interval: 1000
-  texts:
-    - RED
-    - BLUE
-    - GREEN
-    - YELLOW
+    - '&c&l    ɴᴏ ᴛᴏxɪᴄᴏѕ'
+    - '&f&l   ᴅᴏɴᴇɴ ᴀʟ ѕᴠ'
+    - '&9&lᴜɴᴇᴛᴇ ᴀʟ ᴅɪѕᴄᴏʀᴅ'
