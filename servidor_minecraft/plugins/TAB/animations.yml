@@ -45,10 +45,12 @@ tab_text:
     - '&fViaja por todos los mundos usando /mundos'
 
 # SCORE BOARD ANIMACIONES    
-scoreboard:
-  change-interval: 10000
-  text:
-    
+switchingScoreboard:
+  change-interval: 5000
+  texts:
+    - "1"
+    - "2"
+    - "3"
 
 scoretext:
   change-interval: 5000

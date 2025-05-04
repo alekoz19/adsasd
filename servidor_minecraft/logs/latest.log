@@ -82,3 +82,40 @@
 [15:06:10] [Server thread/INFO]: [TAB] Disabled in 2ms
 [15:06:10] [Server thread/INFO]: [TAB] [WARN] Player RevRa3's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
 [15:06:10] [Server thread/INFO]: [TAB] Enabled in 17ms
+[15:09:11] [Server thread/INFO]: RevRa3 issued server command: /tab reload
+[15:09:11] [Server thread/INFO]: [TAB] Disabled in 1ms
+[15:09:11] [Server thread/INFO]: [TAB] [WARN] [animations.yml] .scoreboard: Configuration section ".scoreboard" has unknown key "text". Valid keys: [change-interval, texts]
+[15:09:11] [Server thread/INFO]: [TAB] [WARN] [animations.yml] .scoreboard: Missing configuration section ".scoreboard.texts" of type List, using default value [<Animation does not have any texts>].
+[15:09:11] [Server thread/INFO]: [TAB] [WARN] Player RevRa3's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[15:09:11] [Server thread/INFO]: [TAB] [WARN] Found a total of 2 issues.
+[15:09:11] [Server thread/INFO]: [TAB] Enabled in 13ms
+[15:11:53] [Server thread/INFO]: RevRa3 issued server command: /tab reload
+[15:11:53] [Server thread/INFO]: [TAB] Disabled in 2ms
+[15:11:53] [Server thread/INFO]: [TAB] [WARN] [animations.yml] .scoreboard: Configuration section ".scoreboard" has unknown key "text". Valid keys: [change-interval, texts]
+[15:11:53] [Server thread/INFO]: [TAB] [WARN] [animations.yml] .scoreboard: Missing configuration section ".scoreboard.texts" of type List, using default value [<Animation does not have any texts>].
+[15:11:53] [Server thread/INFO]: [TAB] [WARN] Player RevRa3's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[15:11:53] [Server thread/INFO]: [TAB] [WARN] Found a total of 2 issues.
+[15:11:53] [Server thread/INFO]: [TAB] Enabled in 20ms
+[15:12:20] [Server thread/INFO]: RevRa3 issued server command: /tab reload
+[15:12:20] [Server thread/INFO]: [TAB] Disabled in 2ms
+[15:12:20] [Server thread/INFO]: [TAB] [WARN] [animations.yml] .scoreboard: Configuration section ".scoreboard" has unknown key "text". Valid keys: [change-interval, texts]
+[15:12:20] [Server thread/INFO]: [TAB] [WARN] [animations.yml] .scoreboard: Missing configuration section ".scoreboard.texts" of type List, using default value [<Animation does not have any texts>].
+[15:12:20] [Server thread/INFO]: [TAB] [WARN] Player RevRa3's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[15:12:20] [Server thread/INFO]: [TAB] [WARN] Found a total of 2 issues.
+[15:12:20] [Server thread/INFO]: [TAB] Enabled in 17ms
+[15:14:55] [Server thread/INFO]: RevRa3 issued server command: /tab reload
+[15:14:55] [Server thread/INFO]: [TAB] Disabled in 3ms
+[15:14:55] [Server thread/INFO]: [TAB] [WARN] Player RevRa3's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[15:14:55] [Server thread/INFO]: [TAB] Enabled in 26ms
+[15:15:00] [Server thread/INFO]: RevRa3 issued server command: /time set day
+[15:15:00] [Server thread/INFO]: [RevRa3: Set the time to 1000]
+[15:15:41] [Server thread/INFO]: RevRa3 issued server command: /tab reload
+[15:15:41] [Server thread/INFO]: [TAB] Disabled in 2ms
+[15:15:41] [Server thread/INFO]: [TAB] [WARN] [config.yml] scoreboard: Scoreboard "scoreboard2" has no display condition set, however, there is another scoreboard in the chain (scoreboard3). Scoreboards are checked from top to bottom until a scoreboard with meeting condition or no condition is found. Because of this, the scoreboard (scoreboard3) after the no-condition scoreboard (scoreboard2) will never be displayed. Unless this is intentional to externally display the scoreboard (commands, API), this is a mistake.
+[15:15:41] [Server thread/INFO]: [TAB] [WARN] Player RevRa3's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[15:15:41] [Server thread/INFO]: [TAB] [WARN] Found a total of 1 issues.
+[15:15:41] [Server thread/INFO]: [TAB] Enabled in 12ms
+[15:16:59] [Server thread/INFO]: RevRa3 issued server command: /tab reload
+[15:16:59] [Server thread/INFO]: [TAB] Disabled in 1ms
+[15:16:59] [Server thread/INFO]: [TAB] [WARN] Player RevRa3's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[15:16:59] [Server thread/INFO]: [TAB] Enabled in 9ms
