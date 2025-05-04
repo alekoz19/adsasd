@@ -6,9 +6,7 @@ header-footer:
     - ""
     - ""
     - ""
-    - "ボ"
-    - ""
-    - ""
+    - "&fボ"
     - ""
     - "&r&7&l>> %animation:Welcome%&3 &l%player%&7&l! &7&l<<"
     - "&r&7Online players: &f%online%"
@@ -94,7 +92,7 @@ bossbar:
 
 # https://github.com/NEZNAMY/TAB/wiki/Feature-guide:-Scoreboard
 scoreboard:
-  enabled: false
+  enabled: true
   toggle-command: /sb
   remember-toggle-choice: false
   hidden-by-default: false
@@ -103,10 +101,10 @@ scoreboard:
   delay-on-join-milliseconds: 0
   scoreboards:
     scoreboard-1.20.3+:
-      title: "<#E0B11E>MyServer</#FF0000>"
+      title: "<#E0B11E>&fボ</#FF0000>"
       display-condition: "%player-version-id%>=765;%bedrock%=false" # Only display it to players using 1.20.3+ AND NOT bedrock edition
       lines:
-        - "&7%date%"
+        - ""
         - "%animation:MyAnimation1%"
         - "&6Online:"
         - "* &eOnline&7:||%online%"
